@@ -66,10 +66,10 @@ h1{
     border-radius: 50px;
     width: 500px;
     height: 400px;
-    margin: auto;
     padding: 40px;
     margin-top: 5%;
     margin-left: 10%;
+    margin: auto;
 }
 #sub{
     margin-left: 40%;
@@ -80,9 +80,6 @@ h1{
 input{
     width: 30vw;
     height: 20px;
-}
-label{
-    
 }
 textarea{
     height: 50px;
